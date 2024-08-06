@@ -1,5 +1,7 @@
  In this cryptocurrency application project, users can view the current market value and analysis of various crypto coins. The application features trending coins and allows users to add their favorite coins to a personalized list. For secure user authentication during signup and login, I implemented JWT authentication. State management is handled using the React Context API, ensuring a smooth and efficient user experience. Data fetching is done through the Coin Gecko API, with MongoDB used to store user and coin data. I utilized React hooks such as `useState` and `useEffect` alongside Axios for seamless interaction with the Coin Gecko API. The application also employs React Router Dom v6 to manage dynamic routes, providing a fluid and modern navigation experience.
-
+![Screenshot (35)](https://github.com/user-attachments/assets/1b773be5-742c-4b08-a440-c26d7e28e879)
+![Screenshot (36)](https://github.com/user-attachments/assets/59155fdf-dc95-401f-807b-0de6c2f3ef6b)
+![Screenshot (37)](https://github.com/user-attachments/assets/71fd27d1-22ed-4319-beab-69f88e6175a8)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
